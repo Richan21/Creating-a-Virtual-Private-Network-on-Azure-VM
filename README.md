@@ -25,16 +25,17 @@ In this lab we will set up a VPN using ProtonVPN on an Azure VM. We will connect
 2. Verify Current IP address for your region (Write down if needed to compare IP addresses later)
 
 ## Virtual Machines (VM)
-1. Navigate to “Virtual Machines”
-2. Click “+ Add” to create a new Virtual Machines.
-3. Fill in the basics:
+1. Open your Microsoft Azure Account.
+2. Navigate to “Virtual Machines”
+3. Click “+ Add” to create a new Virtual Machines.
+4. Fill in the basics:
    - Subscription: Choose Azure subscription.
    - Resource group: Create or select.(for this VM i let the VM create its own)
    - Virtual Machine name: Enter a unique name.
    - Region: Choose the deployment region.(for this excercise we must select a region thatoutside of the one you are currently in)
-4. Proceed to Create/Review.
-5. Create a username and password in order to log in to the VM when using Remote Desktop.
-6. Create the Virtual Machine.
+5. Proceed to Create/Review.
+6. Create a username and password in order to log in to the VM when using Remote Desktop.
+7. Create the Virtual Machine.
 
 ![image](https://github.com/Richan21/How-to-Implement-a-SOC-in-AZURE/assets/153684298/3a2baf83-9253-4cda-810c-638bb234791c)
 ![image](https://github.com/Richan21/Creating-a-Virtual-Private-Network-on-Azure-VM/assets/153684298/ee907031-0c09-426f-be74-b7dc3878cee1)
